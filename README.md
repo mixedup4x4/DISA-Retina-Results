@@ -44,4 +44,8 @@ Various Scripts I found a purpose for at some point in my career
 11. WrdCmt2Exl.bas
 
     -Copy Word Comments (input on Revew tab) into Excel
+
+12. LanScan.py
+
+    -Scan Network Range for active Hosts
 	
